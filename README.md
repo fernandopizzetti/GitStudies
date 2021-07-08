@@ -1,0 +1,2 @@
+# GitStudies
+Trying Git
